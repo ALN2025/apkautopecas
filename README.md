@@ -15,7 +15,8 @@ Este projeto une duas experiências essenciais:
 
 ## Tecnologias usadas
 - Android nativo
-- Java 8
+- Java 17
+- Prisma
 - Gradle
 - Retrofit + Gson
 - Firebase Messaging
@@ -52,6 +53,36 @@ O APK Cliente oferece uma experiência direta para quem busca peças: consulta o
 ## Público-alvo
 - **APK Admin / lojista/vendedor**: donos de CDVs, gestores de parcerias e operadores de marketplace.
 - **APK Cliente**: oficinas, mecânicos, desmontadoras e consumidores finais.
+
+---
+
+## Download dos APKs
+- APK Cliente: https://github.com/ALN2025/apkautopecas/blob/main/BuscaPecasHUB-Cliente-v1.0.0.apk
+- APK Admin: https://github.com/ALN2025/apkautopecas/blob/main/SISTEMA-admin-v1.0.0.apk
+
+> Baixe os dois APKs e instale no dispositivo Android.
+
+---
+
+## Como testar
+### Login Painel Admin
+- Usuário: `contato@cdvexemplo.com.br`
+- Senha: `cdv123`
+
+### Login Vendedor
+- Usuário: `vendedor1`
+- Senha: `senha123`
+
+### APK Cliente
+- Preencha apenas o nome e um número válido para acessar.
+
+---
+
+## Notificação Push Firebase (APK Admin)
+Para receber notificações mesmo deslogado no APK Admin:
+1. Abra o APK Admin.
+2. Ative as notificações no painel do app.
+3. Depois disso, quando um cliente reservar uma peça, o APK Admin receberá a notificação via Firebase.
 
 ---
 
