@@ -57,8 +57,8 @@ O APK Cliente oferece uma experiência direta para quem busca peças: consulta o
 ---
 
 ## Download dos APKs
-- APK Cliente: https://github.com/ALN2025/apkautopecas/blob/main/BuscaPecasHUB-Cliente-v1.0.0.apk
-- APK Admin: https://github.com/ALN2025/apkautopecas/blob/main/SISTEMA-admin-v1.0.0.apk
+- APK Cliente: https://github.com/ALN2025/apkautopecas/releases/tag/reselase
+- APK Admin: https://github.com/ALN2025/apkautopecas/releases/tag/reselase
 
 > Baixe os dois APKs e instale no dispositivo Android.
 
